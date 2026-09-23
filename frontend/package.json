@@ -1,0 +1,33 @@
+{
+  "name": "jalraksha-ai-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "*",
+    "lucide-react": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-leaflet": "*",
+    "react-router-dom": "*",
+    "recharts": "*",
+    "three": "*"
+  },
+  "devDependencies": {
+    "@types/leaflet": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "@types/three": "*",
+    "@vitejs/plugin-react": "*",
+    "autoprefixer": "*",
+    "postcss": "*",
+    "tailwindcss": "*",
+    "typescript": "*",
+    "vite": "*"
+  }
+}
