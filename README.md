@@ -33,7 +33,7 @@
 |:---:|:---:|:---:|
 | ![3D Terrain](IMG/3D%20risk%20terrain.png) | ![AI Agent](IMG/AI%20AGENTS.png) | ![Response Zones](IMG/Ai%20Responses%20zone.png) |
 
-*Full walkthrough further down in [📱 Complete App Walkthrough](#-complete-app-walkthrough).*
+<!-- *Full walkthrough further down in [📱 Complete App Walkthrough](#-complete-app-walkthrough).* -->
 
 > **Note on the images above:** this build runs fully offline in this environment, so these previews
 > are pixel-accurate re-renders of the real components (same colors, layout, copy, and data shapes
